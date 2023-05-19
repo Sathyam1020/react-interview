@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ed1dfb6.css",
+    "main.js": "/static/js/main.d55b7e49.js",
+    "static/media/banner.png": "/static/media/banner.ef37225a73aee97eaab6.png",
+    "static/media/banner2.png": "/static/media/banner2.4ccca733f3f84adffa43.png",
+    "static/media/banner3.png": "/static/media/banner3.e209ad6bdb4f1353b91b.png",
+    "static/media/group.png": "/static/media/group.5161a468edd33e794cc2.png",
+    "static/media/Rectangle4.png": "/static/media/Rectangle4.796ede5e8620da4dc049.png",
+    "static/media/person6.png": "/static/media/person6.94092ad89a5cffe4ac02.png",
+    "static/media/person1.png": "/static/media/person1.45c244b91bddcefadfd2.png",
+    "static/media/Rectangle6.png": "/static/media/Rectangle6.b7bdcee2ca8c3855d84f.png",
+    "static/media/person2.png": "/static/media/person2.84aeceea92210a18a9bd.png",
+    "static/media/Rectangle5.png": "/static/media/Rectangle5.868c1f217735134a9948.png",
+    "static/media/Rectangle3.png": "/static/media/Rectangle3.52917b941cfdcf94a660.png",
+    "static/media/person5.png": "/static/media/person5.b8c286fdaa5f8a2f059d.png",
+    "static/media/image2.png": "/static/media/image2.e540ea2b8a896e64ca63.png",
+    "static/media/image3.png": "/static/media/image3.047bcf8683615694a399.png",
+    "static/media/person4.png": "/static/media/person4.9be91bea7e9d9e60b42f.png",
+    "static/media/image4.png": "/static/media/image4.3a83c7755ccc5f790cce.png",
+    "static/media/image5.png": "/static/media/image5.71e7c54b82a7a4d235fa.png",
+    "static/media/Ellipse8.png": "/static/media/Ellipse8.5f94bcbba1801d3f967a.png",
+    "static/media/Ellipse11.png": "/static/media/Ellipse11.37f7a84654902ae68414.png",
+    "static/media/Ellipse7.png": "/static/media/Ellipse7.c4fcec7046d475e1276a.png",
+    "static/media/Ellipse10.png": "/static/media/Ellipse10.f68ff3a82c7b9b08e560.png",
+    "static/media/Ellipse 9.png": "/static/media/Ellipse 9.48d73e44a43052614569.png",
+    "static/media/image6.png": "/static/media/image6.02e450bf2125d33bbc61.png",
+    "static/media/Ellipse12.png": "/static/media/Ellipse12.aa0d13fc41b89521ab5f.png",
+    "index.html": "/index.html",
+    "main.0ed1dfb6.css.map": "/static/css/main.0ed1dfb6.css.map",
+    "main.d55b7e49.js.map": "/static/js/main.d55b7e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed1dfb6.css",
+    "static/js/main.d55b7e49.js"
+  ]
+}
